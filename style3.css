@@ -1,0 +1,6 @@
+.main-header {
+  background-color: rgb(0, 0, 0);
+  background-image: url(kearny047.jpg);
+  background-blend-mode: multiply;
+  background-image: cover;
+}
